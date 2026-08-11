@@ -5,7 +5,12 @@ description = "Backend API for tracking study time for DevOps certifications"
 readme = "README.md"
 authors = [{ name = "Buchta Tomas", email = "test@gmail.com" }]
 requires-python = ">=3.13"
-dependencies = ["fastapi>=0.141.1", "httpx>=0.28.1", "uvicorn>=0.52.1"]
+dependencies = [
+    "fastapi>=0.141.1",
+    "httpx>=0.28.1",
+    "ruff>=0.16.2",
+    "uvicorn>=0.52.1",
+]
 
 [project.scripts]
 study-tracker-api = "backend.main:main"
