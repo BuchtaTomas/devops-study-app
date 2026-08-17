@@ -11,6 +11,7 @@ dependencies = [
   "ruff>=0.16.3",
   "pytest>=9.1.1",
   "responses>=0.26.2",
+  "pytest-cov>=7.1.0",
 ]
 
 [project.scripts]
