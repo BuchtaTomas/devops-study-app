@@ -16,7 +16,7 @@ jobs:
           filters: |
             frontend:
               - 'src/frontend/**'
-              - '.github/workflows/frontend-test.yaml'
+              - '.github/workflows/frontend-tests.yaml'
 
   test:
     name: Test Frontend
