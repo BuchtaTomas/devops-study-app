@@ -79,7 +79,6 @@ def index():
 # Add comment to trigger new tag
 # Add comment to trigger new tag
 
-
 @app.route("/add_session", methods=["POST"])
 def add_session():
     """Add a new study session"""
