@@ -76,6 +76,8 @@ def index():
     return render_template("index.html", sessions=sessions)
 
 
+# Add comment to trigger new tag
+#
 @app.route("/add_session", methods=["POST"])
 def add_session():
     """Add a new study session"""
