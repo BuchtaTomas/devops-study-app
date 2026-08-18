@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/BuchtaTomas/devops-study-app/compare/backend-v0.2.0...backend-v0.3.0) (2026-08-18)
+
+
+### Features
+
+* **backend:** added exctra line with comment to test triger for new tag creation ([#16](https://github.com/BuchtaTomas/devops-study-app/issues/16)) ([b789050](https://github.com/BuchtaTomas/devops-study-app/commit/b7890505051b29e6286a2295c62ab59e5816edd2))
+
 ## [0.2.0](https://github.com/BuchtaTomas/devops-study-app/compare/backend-v0.1.0...backend-v0.2.0) (2026-08-18)
 
 
