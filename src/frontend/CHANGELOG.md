@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/BuchtaTomas/devops-study-app/compare/frontend-v0.1.0...frontend-v0.2.0) (2026-08-18)
+
+
+### Features
+
+* **frontend:** added container image building and pushing ([#21](https://github.com/BuchtaTomas/devops-study-app/issues/21)) ([19855ea](https://github.com/BuchtaTomas/devops-study-app/commit/19855ea8d299f6a397651e955ae1d447464a6a3d))
+
 ## 0.1.0 (2026-08-18)
 
 
