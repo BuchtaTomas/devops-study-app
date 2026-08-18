@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/BuchtaTomas/devops-study-app/compare/frontend-v0.3.0...frontend-v0.4.0) (2026-08-18)
+
+
+### Features
+
+* **frontend:** test to create new relase and also package for frontend ([#29](https://github.com/BuchtaTomas/devops-study-app/issues/29)) ([898b92d](https://github.com/BuchtaTomas/devops-study-app/commit/898b92d507d75e76a9fc6be615d763661ddd821a))
+
 ## [0.3.0](https://github.com/BuchtaTomas/devops-study-app/compare/frontend-v0.2.0...frontend-v0.3.0) (2026-08-18)
 
 
