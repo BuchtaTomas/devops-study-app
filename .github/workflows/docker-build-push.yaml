@@ -73,7 +73,7 @@ jobs:
           push: true
           tags: |
             ${{ env.REGISTRY }}/${{ env.FRONTEND_IMAGE_NAME }}:${{ steps.tag.outputs.TAG }}
-            ${{ env.REGISTRY }}/${{ env.FRONTEDN_IMAGE_NAME }}:latest
+            ${{ env.REGISTRY }}/${{ env.FRONTEND_IMAGE_NAME }}:latest
     outputs:
       tag: ${{ steps.tag.outputs.TAG }}
       app: frontend
