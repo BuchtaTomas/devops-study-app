@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/BuchtaTomas/devops-study-app/compare/backend-v0.1.0...backend-v0.2.0) (2026-08-18)
+
+
+### Features
+
+* **backend:** added container image building and pushing ([#12](https://github.com/BuchtaTomas/devops-study-app/issues/12)) ([be429e3](https://github.com/BuchtaTomas/devops-study-app/commit/be429e3fee7f81d00faf826843f295dfc6c9c111))
+
 ## 0.1.0 (2026-08-17)
 
 
