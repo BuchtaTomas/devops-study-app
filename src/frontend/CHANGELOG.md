@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/BuchtaTomas/devops-study-app/compare/frontend-v0.2.0...frontend-v0.3.0) (2026-08-18)
+
+
+### Features
+
+* **frontend:** trying to fix problem with docker build trigger for frontend ([#26](https://github.com/BuchtaTomas/devops-study-app/issues/26)) ([ec9e5fa](https://github.com/BuchtaTomas/devops-study-app/commit/ec9e5fa373b48b9b8bda76a010e047d362f85514))
+
 ## [0.2.0](https://github.com/BuchtaTomas/devops-study-app/compare/frontend-v0.1.0...frontend-v0.2.0) (2026-08-18)
 
 
