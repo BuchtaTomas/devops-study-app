@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.3](https://github.com/BuchtaTomas/devops-study-app/compare/backend-v0.3.2...backend-v0.3.3) (2026-08-21)
+
+
+### Bug Fixes
+
+* correct pipeline input parameters ([d70342a](https://github.com/BuchtaTomas/devops-study-app/commit/d70342a8617b056aabcf84f2974c9160efc0c1d7))
+
 ## [0.3.2](https://github.com/BuchtaTomas/devops-study-app/compare/backend-v0.3.1...backend-v0.3.2) (2026-08-21)
 
 
