@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.4](https://github.com/BuchtaTomas/devops-study-app/compare/backend-v0.3.3...backend-v0.3.4) (2026-08-21)
+
+
+### Bug Fixes
+
+* change outputs.tags to outputs.tag to match build jobs ([9b04dd7](https://github.com/BuchtaTomas/devops-study-app/commit/9b04dd76511bae05d8eab438354d2c5ffd9f81f7))
+
 ## [0.3.3](https://github.com/BuchtaTomas/devops-study-app/compare/backend-v0.3.2...backend-v0.3.3) (2026-08-21)
 
 
