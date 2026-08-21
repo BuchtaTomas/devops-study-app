@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/BuchtaTomas/devops-study-app/compare/backend-v0.3.0...backend-v0.3.1) (2026-08-21)
+
+
+### Bug Fixes
+
+* trigger release for real ([b1e495e](https://github.com/BuchtaTomas/devops-study-app/commit/b1e495ea0b6f7d468f7c9b5ee46b6efb689ca17c))
+
 ## [0.3.0](https://github.com/BuchtaTomas/devops-study-app/compare/backend-v0.2.0...backend-v0.3.0) (2026-08-18)
 
 
